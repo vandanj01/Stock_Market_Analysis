@@ -16,10 +16,10 @@ public class WatchlistManager {
 
     // Database credentials
     private static final String DB_URL = "jdbc:mysql://localhost:3306/stock_watchlist";
-    private static final String USER = "root";
-    private static final String PASS = "wUbnex-hismen-supfu9"; // Replace with your password
+    private static final String USER = "your-db-user"; //replace with your database user
+    private static final String PASS = "your-db-password"; // Replace with your password
 
-    private static final String API_KEY = "QZXDIFMCPU7TBE6D"; // Replace with your Alpha Vantage API key
+    private static final String API_KEY = "your-api-key"; // Replace with your Alpha Vantage API key
     private static final String BASE_URL = "https://www.alphavantage.co/query";
 
     /**
