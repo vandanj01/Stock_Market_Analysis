@@ -1,3 +1,4 @@
+//run the script in the mysql workbench or using the terminal
 CREATE DATABASE stock_watchlist;
 USE stock_watchlist;
 
