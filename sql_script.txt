@@ -1,0 +1,7 @@
+CREATE DATABASE stock_watchlist;
+USE stock_watchlist;
+
+CREATE TABLE watchlist (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    symbol VARCHAR(100) NOT NULL
+);
