@@ -22,7 +22,7 @@ import java.util.Iterator;
  */
 public class StockFetcher {
 
-    private static final String API_KEY = "QZXDIFMCPU7TBE6D"; // Replace with your own API key
+    private static final String API_KEY = "your-api-key"; // Replace with your own API key
     private static final String BASE_URL = "https://www.alphavantage.co/query";
 
     /**
